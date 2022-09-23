@@ -1,6 +1,11 @@
 # Bem vindo(a) ao meu perfil!
 
-Olá, eu sou o Ramon Correia
+Olá, eu sou o Ramon Correia, atualmente estudando linguagens de programação. Buscando o primeiro projeto!
+
+![NVLC6985](https://user-images.githubusercontent.com/113454672/192037680-facac899-23f8-4c2c-92f9-619773aa6c89.JPG)
+
+
+Sou do Rio de Janeiro
 
 ## O que eu gosto da fazer..
 
@@ -24,4 +29,3 @@ Olá, eu sou o Ramon Correia
 
 - Instagram: @ramoncorreiia
 - Likedin: Ramon Correia
-- Whatsapp: 21 996547800
